@@ -1,0 +1,6 @@
+D:\1. Kuliah\Semester 2\Pemrograman\Ngoding-C#\AplikasiCalculator-Tugas\AplikasiCalculator-Tugas\bin\Debug\AplikasiCalculator-Tugas.exe.config
+D:\1. Kuliah\Semester 2\Pemrograman\Ngoding-C#\AplikasiCalculator-Tugas\AplikasiCalculator-Tugas\bin\Debug\AplikasiCalculator-Tugas.exe
+D:\1. Kuliah\Semester 2\Pemrograman\Ngoding-C#\AplikasiCalculator-Tugas\AplikasiCalculator-Tugas\bin\Debug\AplikasiCalculator-Tugas.pdb
+D:\1. Kuliah\Semester 2\Pemrograman\Ngoding-C#\AplikasiCalculator-Tugas\AplikasiCalculator-Tugas\obj\Debug\AplikasiCalculator-Tugas.exe
+D:\1. Kuliah\Semester 2\Pemrograman\Ngoding-C#\AplikasiCalculator-Tugas\AplikasiCalculator-Tugas\obj\Debug\AplikasiCalculator-Tugas.pdb
+D:\1. Kuliah\Semester 2\Pemrograman\Ngoding-C#\AplikasiCalculator-Tugas\AplikasiCalculator-Tugas\obj\Debug\AplikasiCalculator-Tugas.csprojResolveAssemblyReference.cache
